@@ -12,5 +12,5 @@ try:
 
 finally:
     # закрываем браузер после всех манипуляций
-    browser.quit() #4444
+    browser.quit()
 
