@@ -58,3 +58,4 @@ class TestBookPage():
 def test_guest_can_open_gadget_catalogue(browser):
     assert True
 
+
